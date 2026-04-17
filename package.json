@@ -1,0 +1,27 @@
+{
+  "name": "brandsync-agentic-skills",
+  "version": "0.1.0",
+  "description": "Framework adapter skills for BrandSync MCP — installs into Claude Code automatically",
+  "keywords": ["brandsync", "claude-code", "design-system", "mudblazor", "mcp", "claude"],
+  "author": "EG BrandSync",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eg-brandsync/brandsync-agentic-skills.git"
+  },
+  "homepage": "https://github.com/eg-brandsync/brandsync-agentic-skills#readme",
+  "bugs": {
+    "url": "https://github.com/eg-brandsync/brandsync-agentic-skills/issues"
+  },
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "files": [
+    "install.js",
+    "skills/",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
