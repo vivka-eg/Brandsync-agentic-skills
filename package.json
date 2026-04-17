@@ -7,11 +7,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/eg-brandsync/brandsync-agentic-skills.git"
+    "url": "https://github.com/vivka-eg/Brandsync-agentic-skills.git"
   },
-  "homepage": "https://github.com/eg-brandsync/brandsync-agentic-skills#readme",
+  "homepage": "https://github.com/vivka-eg/Brandsync-agentic-skills#readme",
   "bugs": {
-    "url": "https://github.com/eg-brandsync/brandsync-agentic-skills/issues"
+    "url": "https://github.com/vivka-eg/Brandsync-agentic-skills/issues"
   },
   "scripts": {
     "postinstall": "node install.js"
